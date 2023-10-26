@@ -1,2 +1,2 @@
 # Start-in-Web-Programming
-Contains learning content from the course Start in Web Programming - Onebitcode
+Contains learning content from the Start in Web Programming course - Onebitcode
